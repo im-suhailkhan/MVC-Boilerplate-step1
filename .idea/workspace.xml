@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mvcboilerplate.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fa1a1a3-9b1c-4aae-91df-4422cc8d997f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/java/com/stackroute/keepnote/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/java/com/stackroute/keepnote/controller/NoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/java/com/stackroute/keepnote/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/java/com/stackroute/keepnote/model/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/KeepNote-Step1-Boilerplate" />
+  </component>
+  <component name="ProjectId" id="1RY0dUIrooqA4bAEsdbuEV9mFQ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/KeepNote-Step1-Boilerplate/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat mvc" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="" />
+      <option name="CONTEXT_PATH" value="" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="ENV_OPTIONS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mvcboilerplate.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fa1a1a3-9b1c-4aae-91df-4422cc8d997f" name="Default Changelist" comment="" />
+      <created>1569828809762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569828809762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
